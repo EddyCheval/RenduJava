@@ -1,0 +1,1 @@
+Le Projet contient la base de données (SQLite) utilisée ainsi que les deux mains (App (Version Memoire) et AppDAO (Version BDD).
